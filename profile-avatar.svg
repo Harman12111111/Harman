@@ -1,0 +1,26 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="60" y1="40" x2="440" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5CC6FF"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="card" x1="150" y1="120" x2="350" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A1B2D"/>
+      <stop offset="1" stop-color="#101F36"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="500" rx="42" fill="url(#bg)"/>
+  <circle cx="250" cy="190" r="110" fill="#DFF6FF" fill-opacity="0.18"/>
+  <circle cx="250" cy="175" r="82" fill="#DFF6FF" fill-opacity="0.18"/>
+  <path d="M165 390C175 315 215 280 250 280C285 280 325 315 335 390" fill="url(#card)"/>
+  <circle cx="250" cy="190" r="78" fill="#F3F7FB"/>
+  <path d="M186 190C186 149.13 219.13 116 260 116H280C320.87 116 354 149.13 354 190V196C354 235.66 321.66 268 282 268H238C198.34 268 166 235.66 166 196V190H186Z" fill="#D9E8F7"/>
+  <path d="M205 178C205 142.86 233.86 114 269 114H278C313.14 114 342 142.86 342 178V190C342 200.49 333.49 209 323 209H214C203.51 209 195 200.49 195 190V178H205Z" fill="#0D223A"/>
+  <circle cx="250" cy="190" r="45" fill="#F7C7A1"/>
+  <path d="M200 170C210 128 234 108 266 108C301 108 327 131 332 172C318 143 290 118 248 118C233 118 214 128 200 170Z" fill="#0E2037"/>
+  <path d="M216 244C233 259 266 259 284 244" stroke="#E4B58E" stroke-width="8" stroke-linecap="round"/>
+  <path d="M206 396C220 353 237 331 250 331C263 331 280 353 294 396" fill="#0F2642"/>
+  <circle cx="155" cy="122" r="18" fill="#FFFFFF" fill-opacity="0.18"/>
+  <circle cx="366" cy="150" r="14" fill="#FFFFFF" fill-opacity="0.14"/>
+  <circle cx="382" cy="355" r="20" fill="#FFFFFF" fill-opacity="0.12"/>
+</svg>
